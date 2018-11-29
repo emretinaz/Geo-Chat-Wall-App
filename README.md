@@ -1,4 +1,9 @@
-# Geo-Chat-Wall
+# Geo-Chat-Wall-App
+
+https://geo-chat-wall-app.firebaseapp.com/
+
+
+# You need to configure for your firebase db.
 
 ## Project setup
 ```
